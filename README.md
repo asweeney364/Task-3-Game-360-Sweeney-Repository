@@ -12,5 +12,6 @@ LivesChanged makes PlayerController change to the hurt state
 ## Help I used
 copilot:
 helped me script and debug the players state machines in PlayerController
+
 video:
 https://www.youtube.com/watch?v=-jkT4oFi1vk
